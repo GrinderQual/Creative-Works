@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\79186\Downloads\Project1\Project1\FileName.cpp(150,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\79186\Downloads\Project1\Project1\FileName.cpp(177,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\79186\Downloads\Project1\Project1\FileName.cpp(188,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\79186\Downloads\Project1\x64\Debug\Project1.exe
